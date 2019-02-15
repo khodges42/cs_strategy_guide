@@ -1,6 +1,6 @@
-==Books==
-Lifehack- [O'Reilly Safari does free trials for 7 days](https://learning.oreilly.com/accounts/login/) and will have (all?) of these books. I have all of these in PDF and (most) in hard copy if you want to borrow/download them :)
+# Strategy Guide
 
+## Books
 [Structure and Interpretations of Computer Programs](https://github.com/sarabander/sicp) is by far the best book I've ever read. There are youtube videos from MIT OpenCourseware of the authors teaching the course. The language itself is very dated, but the concepts are mindblowing even for an experienced programmer.
 
 [Cracking the Code Interview](www.crackingthecodinginterview.com/) is excellent for two reasons. One being that it's essentially the strategy guide to pass any code interview, two being that it's a really nice all in one place for reviewing data structures and algorithms.
@@ -15,10 +15,11 @@ The [Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp
 [Python book](https://learnpythonthehardway.org/) Python the Hard Way is a fun read.
 [Java book](https://www.amazon.com/Core-Java-I-Fundamentals-10th/dp/0134177304) If you have to learn Java, this is a book on Java.
 [Go book](https://www.oreilly.com/library/view/the-go-programming/9780134190570/) Written by one of the guys that wrote the C book (and language lol)
-[Git Guide](http://rogerdudler.github.io/git-guide/)
 
-==Talks==
-I'm a big fan of conference talks. It's a format in tech (and especially software development) that has grown into an artform. Here are a few favorites.
+Lifehack- [O'Reilly Safari does free trials for 7 days](https://learning.oreilly.com/accounts/login/) and will have (all?) of these books.
+
+## Talks
+Conference Talks are a format in tech (and especially software development) that has grown into an artform. Here are a few favorites.
 [big list](https://github.com/hellerve/programming-talks)
 
 [Simplicity Aint Easy](https://www.youtube.com/watch?v=cidchWg74Y4)
@@ -28,7 +29,7 @@ I'm a big fan of conference talks. It's a format in tech (and especially softwar
 [Uncle Bob on Architecture](https://www.youtube.com/watch?v=o_TH-Y78tt4)
 [Linux Kernel Development](https://www.youtube.com/watch?v=vyenmLqJQjs)
 
-==General Stuff==
+## General
 The role requirements are more or less similar everywhere other than specific language/tool skills. Don't worry too much about specific languages/tools, the places worth going to won't care too much since it's not a big deal to learn C# if you know Java, or Go if you know Rust, etc.
 
 The general (knowledge) requirements look like this:
