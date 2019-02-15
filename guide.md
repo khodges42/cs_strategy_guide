@@ -18,16 +18,23 @@ The [Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp
 
 Lifehack- [O'Reilly Safari does free trials for 7 days](https://learning.oreilly.com/accounts/login/) and will have (all?) of these books.
 
+
 ## Talks
 Conference Talks are a format in tech (and especially software development) that has grown into an artform. Here are a few favorites.
 [big list](https://github.com/hellerve/programming-talks)
 
 [Simplicity Aint Easy](https://www.youtube.com/watch?v=cidchWg74Y4)
+
 [Dynamic Language Wizard Series](https://www.youtube.com/watch?v=agw-wlHGi0E)
+
 [The Essence of C++](https://www.youtube.com/watch?v=86xWVb4XIyE)
+
 [Uncle Bob on Programming History and Future](https://www.youtube.com/watch?v=ecIWPzGEbFc)
+
 [Uncle Bob on Architecture](https://www.youtube.com/watch?v=o_TH-Y78tt4)
+
 [Linux Kernel Development](https://www.youtube.com/watch?v=vyenmLqJQjs)
+
 
 ## General
 The role requirements are more or less similar everywhere other than specific language/tool skills. Don't worry too much about specific languages/tools, the places worth going to won't care too much since it's not a big deal to learn C# if you know Java, or Go if you know Rust, etc.
